@@ -4,11 +4,15 @@
 
 ## Overview
 
-<p> Pada bagian clustering, di project ini menggunakan K-Means Clustering, Agglomerative Hierarchical Clustering, dan DBSCAN. Sedangkan pada bagian classification, project ini menggunakan Random Forest Classifier dan XGBoost Classifier.
+<p> Pada bagian clustering, di project ini menggunakan <b>K-Means Clustering, Agglomerative Hierarchical Clustering, dan DBSCAN.</b> Sedangkan pada bagian classification, project ini menggunakan <b>Random Forest Classifier dan XGBoost Classifier.</b>
   
 ## Results
 
-### Evaluation Metrics
+## Clustering
+
+
+
+### Evaluation Metrics for Classification model
  
 Metrik Evaluasi pada project ini yang digunakan adalah : <b>F1 Score, recall, precision, ROC-AUC Score, dan Matthews correlation coefficient.</b> Dikarenakan dataset ini tidak termasuk kategori dataset yang <i>highly-imbalanced</i>, maka model terbaik dapat dipilih dari ROC-AUC Score tertinggi. Dan ini hasilnya:
   
