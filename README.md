@@ -4,8 +4,4 @@
 
 <p> Pada bagian clustering, di project ini menggunakan K-Means Clustering, Agglomerative Hierarchical Clustering, dan DBSCAN. Sedangkan pada bagian classification, project ini menggunakan Random Forest Classifier dan XGBoost Classifier.
   
-  | First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
