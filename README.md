@@ -4,9 +4,9 @@
 
 <p> Pada bagian clustering, di project ini menggunakan K-Means Clustering, Agglomerative Hierarchical Clustering, dan DBSCAN. Sedangkan pada bagian classification, project ini menggunakan Random Forest Classifier dan XGBoost Classifier.
   
-| Left-aligned | Center-aligned | Right-aligned | Left-aligned | Center-aligned | Right-aligned | 
-| :---         |     :---:      |          ---: | :---         |     :---:      |          ---: |
-| git status   | git status     | git status    | git status   | git status     | git status    |
-| git diff     | git diff       | git diff      | git diff     | git diff       | git diff      |
+|  | F1 Score | recall | Precision | ROC-AUC Score | Matthews correlation coefficient| 
+|   :---:      |     :---:      |    :---:      |   :---:      |     :---:      |          ---: |
+| XGBoost Classifier   | git status     | git status    | git status   | git status     | git status    |
+| Random Forest Classifier     | git diff       | git diff      | git diff     | git diff       | git diff      |
   
 
