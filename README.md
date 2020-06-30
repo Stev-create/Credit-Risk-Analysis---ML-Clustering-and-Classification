@@ -39,6 +39,7 @@ Learning Curve yang akan ditunjukkan hanya untuk Random Forest Classifier, sedan
 
 ![GitHub Logo](/images/rfc.png)
  
+----------------------------------------------------------------------------------
  
- http://github.com - automatic!
-[GitHub](https://github.com/Stev-create)
+Email : stevsetiawan@gmail.com
+github : https://github.com/Stev-create
