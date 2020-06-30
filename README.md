@@ -4,7 +4,7 @@
 
 ## Overview
 
-<p> Pada bagian clustering, di project ini menggunakan <b>K-Means Clustering, Agglomerative Hierarchical Clustering, dan DBSCAN.</b> Sedangkan pada bagian classification, project ini menggunakan <b>Random Forest Classifier dan XGBoost Classifier.</b>
+<p> Project ini terbagi menjadi tiga bagian, EDA, Clustering dan Classification. Dan pada bagian clustering, di project ini menggunakan <b>K-Means Clustering, Agglomerative Hierarchical Clustering, dan DBSCAN.</b> Sedangkan pada bagian classification, project ini menggunakan <b>Random Forest Classifier dan XGBoost Classifier.</b>
   
 ## Results
 
