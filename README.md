@@ -35,7 +35,7 @@ Metrik Evaluasi pada project ini yang digunakan adalah : <b>F1 Score, recall, pr
  
  ### Learning Curve
  
-Learning Curve yang akan ditunjukkan hanya untuk Random Forest Classifier, sedangkan untuk XGBoost Classifier terdapat di notebook [ini](https://github.com/Stev-create/Credit-Risk-Analysis---ML-Clustering-and-Classification/blob/master/3.%20Credit%20Risk%20Analysis%20---%20Classification.ipynb)
+Learning Curve yang akan ditunjukkan hanya untuk Random Forest Classifier, sedangkan untuk XGBoost Classifier terdapat di [notebook ini](https://github.com/Stev-create/Credit-Risk-Analysis---ML-Clustering-and-Classification/blob/master/3.%20Credit%20Risk%20Analysis%20---%20Classification.ipynb)
 
 ![GitHub Logo](/images/rfc.png)
  
