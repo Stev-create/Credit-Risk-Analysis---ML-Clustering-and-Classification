@@ -10,10 +10,15 @@
 
 ### Clustering
 
+#### K-Means
 ![GitHub Logo](/images/1.png)
 ![GitHub Logo](/images/2.png)
+
+#### Agglomerative Clustering
 ![GitHub Logo](/images/3.png)
 ![GitHub Logo](/images/4.png)
+
+#### DBSCAN Clustering
 ![GitHub Logo](/images/5.png)
 
 
