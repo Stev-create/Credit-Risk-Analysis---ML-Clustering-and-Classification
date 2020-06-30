@@ -8,8 +8,13 @@
   
 ## Results
 
-## Clustering
+### Clustering
 
+![GitHub Logo](/images/1.png)
+![GitHub Logo](/images/2.png)
+![GitHub Logo](/images/3.png)
+![GitHub Logo](/images/4.png)
+![GitHub Logo](/images/5.png)
 
 
 ### Evaluation Metrics for Classification model
