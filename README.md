@@ -32,9 +32,9 @@ Sebetulnya dari kluster ini bisa dilihat juga rata-rata menyicilnya, orang-orang
 Dari Dendogram di atas menunjukkan adanya empat kluster.
 ![GitHub Logo](/images/4.png)
 
-* cluster 0 adalah orang-orang berumur muda atau bisa dikategorikan (young-adults) dengan jumlah kredit yang sedikit dan berdurasi relatif pendek.
-* cluster 1 adalah orang-orang yang berumur relatif 'tua' dengan jumlah kredit yang lumayan besar dan berdurasi panjang.
-* cluster 2 adalah orang-orang yang bisa dibilang 'tua' dengan jumlah kredit yang relatif sedang dan berdurasi relatif pendek.
+* Cluster 0 adalah orang-orang berumur muda atau bisa dikategorikan (young-adults) dengan jumlah kredit yang sedikit dan berdurasi relatif pendek.
+* Cluster 1 adalah orang-orang yang berumur relatif 'tua' dengan jumlah kredit yang lumayan besar dan berdurasi panjang.
+* Cluster 2 adalah orang-orang yang bisa dibilang 'tua' dengan jumlah kredit yang relatif sedang dan berdurasi relatif pendek.
 * Cluster 3 adalah orang-orang yang juga bisa dibilang 'tua', dengan jumlah kredit yang kecil dan berdurasi pendek.
 
 
@@ -43,9 +43,9 @@ Dari Dendogram di atas menunjukkan adanya empat kluster.
 
 Dari DBSCAN terdapat tiga kluster, dimana:
 
-* cluster 1 : adalah orang-orang yang berumur cukup tua dengan jumlah kredit relatif sedang tapi berdurasi panjang. Satu hal yang saya senangi dari DBSCAN, mereka juga terkadang dipakai untuk menemukan multivariate outliers. Dan ini bisa dijadikan contoh, orang-orang ini bisa dibilang agak jarang terjadi. Mengingat jumlah kredit yang sedang tapi berdurasi panjang. Ini bisa dibilang panjang mengingat jumlah kreditnya relatif tidak terlalu banyak. 
-* cluster -1 : adalah orang-orang yang berumur tua dengan jumlah kredit yang relatif besar dan berdurasi relatif panjang. Jumlah di cluster ini tidak terlalu banyak. 
-* cluster 0 : adalah orang-orang yang berumur relatif tua paling mendominasi di dataset ini, orang-orang yang punya kredit sedikit dan berdurasi pendek. 
+* Cluster 1 : adalah orang-orang yang berumur cukup tua dengan jumlah kredit relatif sedang tapi berdurasi panjang. Satu hal yang saya senangi dari DBSCAN, mereka juga terkadang dipakai untuk menemukan multivariate outliers. Dan ini bisa dijadikan contoh, kluster ini berisikan orang-orang yang bisa dibilang agak jarang terjadi. Mengingat jumlah kredit yang sedang tapi berdurasi panjang. Ini bisa dibilang panjang mengingat jumlah kreditnya relatif tidak terlalu banyak. 
+* Cluster -1 : adalah orang-orang yang berumur tua dengan jumlah kredit yang relatif besar dan berdurasi relatif panjang. Jumlah di cluster ini tidak terlalu banyak. 
+* Cluster 0 : adalah orang-orang yang berumur relatif tua paling mendominasi di dataset ini, orang-orang yang punya kredit sedikit dan berdurasi pendek. 
 
 ### Evaluation Metrics for Classification model
  
