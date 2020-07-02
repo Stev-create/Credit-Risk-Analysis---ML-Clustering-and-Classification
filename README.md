@@ -41,11 +41,11 @@ Dari Dendogram di atas menunjukkan adanya empat kluster.
 #### DBSCAN Clustering
 ![GitHub Logo](/images/5.png)
 
-Dari DBSCAN terdapat tiga kluster, dimana:
+Dari DBSCAN terdapat tiga cluster, dimana:
 
-* Cluster 1 : adalah orang-orang yang berumur cukup tua dengan jumlah kredit relatif sedang tapi berdurasi panjang. Satu hal yang saya senangi dari DBSCAN, mereka juga terkadang dipakai untuk menemukan multivariate outliers. Dan ini bisa dijadikan contoh, karena orang-orang yang berada di kluster ini bisa dibilang agak jarang terjadi. Mengingat jumlah kredit yang sedang tapi berdurasi panjang. Ini bisa dibilang panjang mengingat jumlah kreditnya relatif tidak terlalu banyak. 
+* Cluster 1 : adalah orang-orang yang berumur cukup tua dengan jumlah kredit relatif sedang tapi berdurasi panjang. Satu hal yang saya senangi dari DBSCAN, mereka juga terkadang dipakai untuk menemukan multivariate outliers. Dan ini bisa dijadikan contoh (bisa jadi contoh baik atau buruk tergantung menurut pemberi pinjaman), karena orang-orang yang berada di kluster ini bisa dibilang agak jarang terjadi. Mengingat jumlah kredit yang sedang tapi berdurasi panjang. Ini bisa dibilang panjang mengingat jumlah kreditnya relatif tidak terlalu banyak. 
 * Cluster -1 : adalah orang-orang yang berumur tua dengan jumlah kredit yang relatif besar dan berdurasi relatif panjang. Jumlah di cluster ini tidak terlalu banyak. 
-* Cluster 0 : adalah orang-orang yang berumur relatif tua paling mendominasi di dataset ini, orang-orang yang punya kredit sedikit dan berdurasi pendek.  
+* Cluster 0 : adalah orang-orang yang berumur relatif tua paling mendominasi di dataset ini, orang-orang yang punya kredit sedikit dan berdurasi pendek. 
 
 ### Evaluation Metrics for Classification model
  
