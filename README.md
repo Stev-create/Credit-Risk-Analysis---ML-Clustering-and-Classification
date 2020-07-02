@@ -17,7 +17,9 @@ Dari algoritma clustering yang telah saya gunakan dari K-means, Agglomerative Cl
 
 #### K-Means
 ![GitHub Logo](/images/1.png)
+
 Dari grafik di atas menunjukkan adanya dua kluster di dataset ini.
+
 ![GitHub Logo](/images/2.png)
 
 Dimana : 
