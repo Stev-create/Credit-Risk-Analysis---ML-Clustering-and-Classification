@@ -8,19 +8,44 @@
   
 ## Results
 
+### Bussiness Insight
+
+Dari algoritma clustering yang telah saya gunakan dari K-means, Agglomerative Clustering, DBSCAN. Saya merasa untuk bussiness insight, <b>Agglomerative Clustering dan DBSCAN</b> lebih berguna daripada K-Means. Dikarenakan dari Agglomerative Clustering dan DBSCAN benar-benar dapat memberikan gambaran setiap segmen dengan baik. Misalnya, pada Agglomerative Clustering kita dapat empat kluster yang bisa dibilang menggambarkan semua segmen (dari muda sampai tua). Sedangkan DBSCAN dapat memperlihatkan <i>multivariate outliers</i> pada dataset ini. Yang bisa ditentukan pemberi pinjaman apakah dia beresiko atau tidak. Untuk ringkasannya ada di bawah. Namun untuk lebih lengkapnya ada di <strike>notebook ini</strike> (notebooknya masih dalam progress...)
+
+
 ### Clustering
 
 #### K-Means
 ![GitHub Logo](/images/1.png)
+Dari grafik di atas menunjukkan adanya dua kluster di dataset ini.
 ![GitHub Logo](/images/2.png)
+
+Dimana : 
+* Cluster 0 adalah orang-orang yang punya jumlah kredit yang besar dan berdurasi panjang.
+* Cluster 1 adalah orang-orang yang punya jumlah kredit yang sedikit dan berdurasi pendek.
+
+Sebetulnya dari kluster ini bisa dilihat juga rata-rata menyicilnya, orang-orang pada kluster 0 menyicil kredit lebih banyak daripada kluster 1.
 
 #### Agglomerative Clustering
 ![GitHub Logo](/images/3.png)
+
+Dari Dendogram di atas menunjukkan adanya empat kluster.
 ![GitHub Logo](/images/4.png)
+
+* cluster 0 adalah orang-orang berumur muda atau bisa dikategorikan (young-adults) dengan jumlah kredit yang sedikit dan berdurasi relatif pendek.
+* cluster 1 adalah orang-orang yang berumur relatif 'tua' dengan jumlah kredit yang lumayan besar dan berdurasi panjang.
+* cluster 2 adalah orang-orang yang bisa dibilang 'tua' dengan jumlah kredit yang relatif sedang dan berdurasi relatif pendek.
+* Cluster 3 adalah orang-orang yang juga bisa dibilang 'tua', dengan jumlah kredit yang kecil dan berdurasi pendek.
+
 
 #### DBSCAN Clustering
 ![GitHub Logo](/images/5.png)
 
+Dari DBSCAN terdapat tiga kluster, dimana:
+
+* cluster 1 : adalah orang-orang yang berumur cukup tua dengan jumlah kredit relatif sedang tapi berdurasi panjang. Satu hal yang saya senangi dari DBSCAN, mereka juga terkadang dipakai untuk menemukan multivariate outliers. Dan ini bisa dijadikan contoh, orang-orang ini bisa dibilang agak jarang terjadi. Mengingat jumlah kredit yang sedang tapi berdurasi panjang. Ini bisa dibilang panjang mengingat jumlah kreditnya relatif tidak terlalu banyak. 
+* cluster -1 : adalah orang-orang yang berumur tua dengan jumlah kredit yang relatif besar dan berdurasi relatif panjang. Jumlah di cluster ini tidak terlalu banyak. 
+* cluster 0 : adalah orang-orang yang berumur relatif tua paling mendominasi di dataset ini, orang-orang yang punya kredit sedikit dan berdurasi pendek. 
 
 ### Evaluation Metrics for Classification model
  
