@@ -10,7 +10,7 @@
 
 ### Bussiness Insight
 
-Dari algoritma clustering yang telah saya gunakan dari K-means, Agglomerative Clustering, DBSCAN. Saya merasa untuk bussiness insight, <b>Agglomerative Clustering dan DBSCAN</b> lebih berguna daripada K-Means. Dikarenakan dari Agglomerative Clustering dan DBSCAN benar-benar dapat memberikan gambaran setiap segmen dengan baik. Misalnya, pada Agglomerative Clustering kita dapat empat kluster yang bisa dibilang menggambarkan semua segmen (dari muda sampai tua). Sedangkan DBSCAN dapat memperlihatkan <i>multivariate outliers</i> pada dataset ini. Yang bisa ditentukan pemberi pinjaman apakah dia beresiko atau tidak. Untuk ringkasannya ada di bawah. Namun untuk lebih lengkapnya ada di [notebook ini](https://github.com/Stev-create/Credit-Risk-Analysis---ML-Clustering-and-Classification/blob/master/2.%20Credit%20Risk%20Analysis%20---%20Clustering.ipynb) 
+Dari algoritma clustering yang telah saya gunakan dari K-means, Agglomerative Clustering, DBSCAN. Saya merasa untuk bussiness insight, <b>Agglomerative Clustering dan DBSCAN</b> lebih berguna daripada K-Means. Dikarenakan dari Agglomerative Clustering dan DBSCAN benar-benar dapat memberikan gambaran setiap segmen dengan baik. Misalnya, pada Agglomerative Clustering kita dapat empat kluster yang bisa dibilang menggambarkan semua segmen (dari muda sampai tua). Sedangkan DBSCAN dapat memperlihatkan <i>multivariate outliers</i> pada dataset ini. Yang bisa ditentukan pemberi pinjaman apakah dia beresiko atau tidak. Untuk ringkasannya ada di bawah. Namun untuk lebih lengkapnya ada di [notebook ini](https://github.com/Stev-create/Credit-Risk-Analysis---ML-Clustering-and-Classification/blob/master/2.%20Credit%20Risk%20Analysis%20---%20Clustering.ipynb). 
 
 ### Clustering
 
