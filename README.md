@@ -28,7 +28,7 @@ Dimana :
 Sebetulnya dari kluster ini bisa dilihat juga rata-rata menyicilnya, orang-orang pada kluster 0 menyicil kredit lebih banyak daripada kluster 1.
 
 #### Agglomerative Clustering
-![GitHub Logo](/images/3.png)
+![GitHub Logo](/images/dendo.png)
 
 Dari Dendogram di atas menunjukkan adanya empat kluster.
 ![GitHub Logo](/images/4.png)
