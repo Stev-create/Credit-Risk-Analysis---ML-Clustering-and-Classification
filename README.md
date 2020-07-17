@@ -6,7 +6,7 @@
 
 <p> Project ini terbagi menjadi tiga bagian, EDA, Clustering dan Classification. Pada bagian EDA, saya mencoba untuk membersihkan data dan melakukan eksplorasi data. Kemudian pada bagian clustering, di project ini menggunakan <b>K-Means Clustering, Agglomerative Hierarchical Clustering, dan DBSCAN</b> yang bertujuan untuk menunjukkan kluster-kluster dan karakteristik orang-orang pada dataset ini. Sedangkan pada bagian classification, project ini menggunakan <b>Random Forest Classifier dan XGBoost Classifier.</b>
   
-## Results
+## Summary
 
 ### Bussiness Insight
 
