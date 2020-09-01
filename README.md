@@ -1,4 +1,4 @@
-<h1> Credit-Risk-Analysis---ML-Clustering-and-Classification (In progress...) </h1>
+<h1> Credit-Risk-Analysis---ML-Clustering-and-Classification</h1>
 
 <h3>Source Dataset: https://archive.ics.uci.edu/ml/datasets/Statlog+%28German+Credit+Data%29 </h3>
 
